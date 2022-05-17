@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "findinvalidchar/1.0.0": {
+        "runtime": {
+          "findinvalidchar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "findinvalidchar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

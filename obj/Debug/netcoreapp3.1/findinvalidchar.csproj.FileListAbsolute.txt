@@ -1,0 +1,13 @@
+C:\Users\Aaron\source\repos\findinvalidchar\findinvalidchar\bin\Debug\netcoreapp3.1\findinvalidchar.exe
+C:\Users\Aaron\source\repos\findinvalidchar\findinvalidchar\bin\Debug\netcoreapp3.1\findinvalidchar.deps.json
+C:\Users\Aaron\source\repos\findinvalidchar\findinvalidchar\bin\Debug\netcoreapp3.1\findinvalidchar.runtimeconfig.json
+C:\Users\Aaron\source\repos\findinvalidchar\findinvalidchar\bin\Debug\netcoreapp3.1\findinvalidchar.runtimeconfig.dev.json
+C:\Users\Aaron\source\repos\findinvalidchar\findinvalidchar\bin\Debug\netcoreapp3.1\findinvalidchar.dll
+C:\Users\Aaron\source\repos\findinvalidchar\findinvalidchar\bin\Debug\netcoreapp3.1\findinvalidchar.pdb
+C:\Users\Aaron\source\repos\findinvalidchar\findinvalidchar\obj\Debug\netcoreapp3.1\findinvalidchar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron\source\repos\findinvalidchar\findinvalidchar\obj\Debug\netcoreapp3.1\findinvalidchar.AssemblyInfoInputs.cache
+C:\Users\Aaron\source\repos\findinvalidchar\findinvalidchar\obj\Debug\netcoreapp3.1\findinvalidchar.AssemblyInfo.cs
+C:\Users\Aaron\source\repos\findinvalidchar\findinvalidchar\obj\Debug\netcoreapp3.1\findinvalidchar.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\source\repos\findinvalidchar\findinvalidchar\obj\Debug\netcoreapp3.1\findinvalidchar.dll
+C:\Users\Aaron\source\repos\findinvalidchar\findinvalidchar\obj\Debug\netcoreapp3.1\findinvalidchar.pdb
+C:\Users\Aaron\source\repos\findinvalidchar\findinvalidchar\obj\Debug\netcoreapp3.1\findinvalidchar.genruntimeconfig.cache
